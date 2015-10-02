@@ -31,7 +31,6 @@
     "phase",
     "sequence",
     "series",
-    "concurrent",
     "run"
   ],
   "bugs": {
