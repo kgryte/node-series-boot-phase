@@ -1,7 +1,7 @@
 {
   "name": "series-boot-phase",
   "version": "0.0.0",
-  "description": "Parallel boot phase when booting an application.",
+  "description": "Series boot phase when booting an application.",
   "author": {
     "name": "Athan Reines",
     "email": "kgryte@gmail.com"
