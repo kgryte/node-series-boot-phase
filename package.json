@@ -1,6 +1,6 @@
 {
   "name": "series-boot-phase",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Series boot phase when booting an application.",
   "author": {
     "name": "Athan Reines",
